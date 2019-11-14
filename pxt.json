@@ -3,15 +3,17 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "edge-connector": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "Tinybit.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
